@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FireTest", "FireTest.csproj", "{BE21D8CF-A385-0AB5-3354-53C812131D3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FireTest.Editor", "FireTest.Editor.csproj", "{D6F20210-265A-D7C8-2CC6-37C4CBD75302}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE21D8CF-A385-0AB5-3354-53C812131D3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE21D8CF-A385-0AB5-3354-53C812131D3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE21D8CF-A385-0AB5-3354-53C812131D3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE21D8CF-A385-0AB5-3354-53C812131D3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6F20210-265A-D7C8-2CC6-37C4CBD75302}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6F20210-265A-D7C8-2CC6-37C4CBD75302}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6F20210-265A-D7C8-2CC6-37C4CBD75302}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6F20210-265A-D7C8-2CC6-37C4CBD75302}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
